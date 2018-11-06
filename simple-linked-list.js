@@ -1,5 +1,10 @@
-class SimpleLinkedList {
+
+// class Element {
+//
+// }
+
+class List {
 
 }
 
-module.exports = SimpleLinkedList;
+module.exports = { List, Element };
